@@ -20,12 +20,12 @@ criaCartao{
 }
 criaCartao{
     'Livro:Era uma vez um coração partido?',
-    'pergunta',
-    'resposta',
+    'Qual era a maldição do Jacks?',
+    'Quem ele beijar morre',
 }
 criaCartao{
-    'categoria',
-    'pergunta',
-    'resposta',
+    'filme shrek',
+    'quantos filhos ele tem?',
+    'ele tem 3 filhos',
 }
 '
